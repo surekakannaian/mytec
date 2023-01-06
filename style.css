@@ -455,7 +455,7 @@ width: 40px;
       font-size: 10px;
     }
     .project img{
-        height: 350px;
+        height: 450px;
         border-radius: 12px;
         width: 50%;
         margin-left: 10%;
@@ -465,7 +465,7 @@ width: 40px;
         width: 50%;
         margin-top: 10%;
         background-color: white;
-        height: 50%;
+        height: 65%;
         border-radius: 12px;
         position: absolute;
         margin-left: 15%;
@@ -478,11 +478,11 @@ width: 40px;
         }
         .form input{
             margin-top: 3%;
-            padding: 2% 15%;
+            padding: 2% 10%;
     
         }
         .form .first{
-            padding: 4% 15%;
+            padding: 4% 10%;
          
         }
         .animation{
